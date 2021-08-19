@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Deepak-1667
 - 👀 I’m interested in frame work
-- 🌱 I’m currently learning python
+- 🌱 I’m know python,Kotlin , c 
+- ✨I'm currently learning java 
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me - mail
 
